@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Franais</name>
+   <tag></tag>
+   <elementGuidId>9694ce0c-cdb3-4c28-a3b3-5ef44c13dbfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Français' or . = 'Français')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hidden-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd780b24-9517-4b3d-9456-2efbce947545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-xs</value>
+      <webElementGuid>e9902f94-2f03-47fc-802d-30e0584fda4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Français</value>
+      <webElementGuid>f53d2430-9738-4d15-9610-9dbdcd251e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js backgroundsize borderimage csstransitions fontface svg details progressbar meter mathml cors mediumview js backgroundsize borderimage csstransitions fontface svg details progressbar meter no-mathml cors wb-enable&quot;]/body[1]/div[@class=&quot;wb-lang&quot;]/div[@class=&quot;container text-right&quot;]/ul[@class=&quot;list-inline margin-bottom-none&quot;]/li[1]/a[1]/span[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>da749cef-f937-46e4-848a-9ea2f1c3c75d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>9f798687-0d70-4fd3-abf8-61c11ef1e98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Français' or . = 'Français')]</value>
+      <webElementGuid>9f430100-ad98-4322-9305-84c8f9f74794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

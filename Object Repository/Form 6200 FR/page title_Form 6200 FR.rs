@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page title_Form 6200 FR</name>
+   <tag></tag>
+   <elementGuidId>7dd7b329-b863-4d3c-bcda-afc94d2a8b2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#wb-cont</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'wb-cont' and (text() = 'Formulaire 6200 - Certificat d’importation dans le cadre du Programme d’Importation pour Approvisionnement Personnel à la Demande des Agriculteurs (PIAPDA)' or . = 'Formulaire 6200 - Certificat d’importation dans le cadre du Programme d’Importation pour Approvisionnement Personnel à la Demande des Agriculteurs (PIAPDA)')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='wb-cont']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>49a3d666-4f7b-498d-aea1-60abca82e489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wb-cont</value>
+      <webElementGuid>0e110bf5-0adc-48d0-bde6-5e29397e1728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>property</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>a01c1712-1971-415d-9939-c7be9d0312fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formulaire 6200 - Certificat d’importation dans le cadre du Programme d’Importation pour Approvisionnement Personnel à la Demande des Agriculteurs (PIAPDA)</value>
+      <webElementGuid>97c8e948-d925-4b37-aa8e-20545bd6e98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wb-cont&quot;)</value>
+      <webElementGuid>ba7019d4-3c85-4af9-8bbb-77d009bd2955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='wb-cont']</value>
+      <webElementGuid>0bf860b9-80dd-4fce-84a6-e2275db85076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e38557a3-d6c1-493e-94f8-39a1ca5986a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'wb-cont' and (text() = 'Formulaire 6200 - Certificat d’importation dans le cadre du Programme d’Importation pour Approvisionnement Personnel à la Demande des Agriculteurs (PIAPDA)' or . = 'Formulaire 6200 - Certificat d’importation dans le cadre du Programme d’Importation pour Approvisionnement Personnel à la Demande des Agriculteurs (PIAPDA)')]</value>
+      <webElementGuid>b4cd8773-8e00-49e2-a7e2-9eedf4829704</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
